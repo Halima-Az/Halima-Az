@@ -16,26 +16,10 @@
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Spring Boot
-- Django
-- .NET
-- Laravel
-- REST APIs
-
-### Databases
-- SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDB)
-
-### Automation & AI
-- n8n
-- LLM APIs (OpenAI / others)
-- Workflow automation
-
-### Data / BI
-- Data analysis concepts
-- Dashboard thinking
-- ETL basics
+- Backend:  Spring Boot, Django, .NET, Laravel & REST APIs
+- Databases: SQL (MySQL, PostgreSQL) & NoSQL (MongoDB)
+- Automation & AI: n8n, LLM APIs (OpenAI / others) & Workflow automation
+- Data / BI: Data analysis concepts, Dashboard thinking & ETL basics
 
 
 ## 📌 Current Focus
